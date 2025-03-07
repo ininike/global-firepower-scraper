@@ -33,4 +33,4 @@ This script is designed to scrape military strength details from the Global Fire
 
 ## Note
 
-You can find a list of available country IDs in the [country_ids.txt] file
+You can find a list of available country IDs in the [country_ids.txt](http://_vscodecontentref_/1) file
