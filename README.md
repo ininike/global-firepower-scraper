@@ -23,14 +23,14 @@ This script is designed to scrape military strength details from the Global Fire
 
 1. Ensure that you have Python installed on your system.
 
-2. Run the [globalfirepower-scraper.py](http://_vscodecontentref_/1) script:
+2. Run the [globalfirepower-scraper.py](https://github.com/ininike/global-firepower-scraper/blob/main/globalfirepower-scraper.py) script:
 
     ```bash
     python globalfirepower-scraper.py
     ```
 
-3. The script will perform a search on the Global Firepower website based on the country ID provided in the [search](http://_vscodecontentref_/2) method and print the extracted results.
+3. The script will perform a search on the Global Firepower website based on the country ID provided in the `search` method and print the extracted results.
 
 ## Note
 
-You can find a list of available country IDs in the [country_ids.txt](http://_vscodecontentref_/1) file
+You can find a list of available country IDs in the [country_ids.txt](https://github.com/ininike/global-firepower-scraper/blob/main/country-ids.txt) file
