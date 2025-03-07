@@ -30,3 +30,7 @@ This script is designed to scrape military strength details from the Global Fire
     ```
 
 3. The script will perform a search on the Global Firepower website based on the country ID provided in the [search](http://_vscodecontentref_/2) method and print the extracted results.
+
+## Note
+
+You can find a list of available country IDs in the [country_ids.txt] file
